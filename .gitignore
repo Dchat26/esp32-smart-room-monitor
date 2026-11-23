@@ -66,3 +66,16 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# ESP32 / Arduino
+secrets.h
+*.bin
+*.elf
+
+# PlatformIO / VS Code
+.pio/
+.vscode/
+
+# OS 자동 생성 파일
+.DS_Store
+Thumbs.db
