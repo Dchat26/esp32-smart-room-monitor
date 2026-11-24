@@ -2,7 +2,7 @@
 
 버튼 입력을 읽어 LED를 제어하고, 버튼 접점의 바운싱 문제를 `millis()` 기반 디바운싱으로 해결한 예제
 
-- **시뮬레이션:** [Wokwi에서 실행하기](WOKWI_LINK)
+- **시뮬레이션:** [Wokwi에서 실행하기](https://wokwi.com/projects/481571444371519489)
 - **언어:** C++ (Arduino framework)
 
 ---
