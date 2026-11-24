@@ -12,6 +12,7 @@ ESP32로 실내 온습도·조도·움직임을 측정하고, 웹으로 확인·
 | 단계 | 내용 | 시뮬레이션 |
 |---|---|---|
 | 01 | LED 깜빡이기 | [Wokwi](https://wokwi.com/projects/481509599739070465) |
+| 02 | 버튼 입력 · 토글 · 디바운싱 | [Wokwi](https://wokwi.com/projects/481571444371519489) |
 
 ## 개발 환경
 - 보드: ESP32 DevKit (ESP-WROOM-32)
