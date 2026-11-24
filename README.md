@@ -18,3 +18,6 @@ ESP32로 실내 온습도·조도·움직임을 측정하고, 웹으로 확인·
 - 보드: ESP32 DevKit (ESP-WROOM-32)
 - 언어: C++ (Arduino framework)
 - 시뮬레이터: Wokwi
+
+## 문서
+- [트러블슈팅 기록](docs/troubleshooting.md)
