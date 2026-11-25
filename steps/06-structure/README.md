@@ -2,7 +2,7 @@
 
 05의 단일 파일 코드를 **역할별 모듈로 분리**하고, 버튼·적외선·PIR에 쓰는 **공통 디바운싱 클래스**를 만들어 05에서 확인한 바운싱 문제를 해결했다. 버튼으로 OLED 화면 페이지를 넘기는 기능을 추가했다.
 
-- **시뮬레이션:** [Wokwi에서 실행하기](WOKWI_LINK)
+- **시뮬레이션:** [Wokwi에서 실행하기](https://wokwi.com/projects/481660846077374465)
 - **언어:** C++ (Arduino framework)
 - **라이브러리:** DHT sensor library (Adafruit), Adafruit Unified Sensor, Adafruit SSD1306, Adafruit GFX Library
 
