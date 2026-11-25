@@ -14,6 +14,7 @@ ESP32로 실내 온습도·조도·움직임을 측정하고, 웹으로 확인·
 | 01 | LED 깜빡이기 | [Wokwi](https://wokwi.com/projects/481509599739070465) |
 | 02 | 버튼 입력 · 토글 · 디바운싱 | [Wokwi](https://wokwi.com/projects/481571444371519489) |
 | 03 | 가변저항 · PWM · RGB 색 섞기 | [Wokwi](https://wokwi.com/projects/481575221641350145) |
+| 04 | DHT 온습도 · I2C OLED 표시 | [Wokwi](https://wokwi.com/projects/481656350103809025) |
 
 ## 개발 환경
 - 보드: ESP32 DevKit (ESP-WROOM-32)
